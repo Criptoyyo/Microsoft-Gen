@@ -5,4 +5,4 @@
 - show cookies
 - need proxy
 - all email confirmations
-- contact : https://t.me/cryptomanm100
+- contact : https://t.me/cryptomanm100 
